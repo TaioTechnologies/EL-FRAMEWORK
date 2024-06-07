@@ -1,0 +1,4 @@
+name = "EL"
+uuid = "270cc3b2-ab66-4021-b29e-c945deeaad33"
+authors = ["Pierre Averty <pierre.averty2001@gmail.com>"]
+version = "0.1.0"
